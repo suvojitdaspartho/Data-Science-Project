@@ -11,3 +11,5 @@ Project Description: The project involved analyzing the Chicago Payroll Data, wh
 ● Applied useful methods and data aggregation to derive meaningful insights from the dataset.
 
 ● Formulated pertinent questions to guide the analysis and uncover valuable information within the payroll data.
+
+**Description:** Briefly describe what this project is about
