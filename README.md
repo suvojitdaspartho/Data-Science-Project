@@ -4,6 +4,8 @@ Welcome to my data science portfolio! Below are some of my recent projects:
 
 ## Project 1: Chicago Payroll Data Analysis
 
+##Project Description
+
 ● The project involved analyzing the Chicago Payroll Data, which required extracting and loading the dataset into a suitable data analysis environment.
 
 ● Extracted and loaded the Chicago Payroll Data using Python and Pandas, ensuring data accessibility.
