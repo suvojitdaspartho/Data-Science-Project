@@ -18,6 +18,8 @@ Welcome to my data science portfolio! Below are some of my recent projects:
 
 ## Project 2: Power BI Sales Dashboard for Madhav Store 
 
+## Project Description
+
 ● The project involved assisting the owner of Madhav Store in creating a dashboard to effectively track and analyze their online sales data across India.
 
 ● Led data collection, cleaning, and wrangling efforts to ensure data accuracy and consistency.
@@ -29,6 +31,8 @@ Welcome to my data science portfolio! Below are some of my recent projects:
 ● Uncovered actionable insights, including identifying top-performing states, top customers, profit and loss trends and high-performing product categories.
 
 ## Project 3: Vrinda Store Data Analysis
+
+## Project Description
 
 ● Analyzed a dataset representing sales data for 2022 to generate insights for Vrinda Store's sales growth strategy in 2023.
 
